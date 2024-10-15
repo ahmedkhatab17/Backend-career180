@@ -39,7 +39,7 @@ class Program
                 break;
 
             default:
-                Console.WriteLine("Error: Invalid operation. Please enter +, -, *, or /.");
+                Console.WriteLine("Error: Invalid operation. Please enter +, -, *, /");
                 break;
         }
     }
