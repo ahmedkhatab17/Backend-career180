@@ -1,0 +1,15 @@
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\career180\Task2\Task2\bin\Debug\net8.0\Task2.exe
+D:\career180\Task2\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\career180\Task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\career180\Task2\Task2\bin\Debug\net8.0\Task2.dll
+D:\career180\Task2\Task2\bin\Debug\net8.0\Task2.pdb
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.dll
+D:\career180\Task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.pdb
+D:\career180\Task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\career180\Task2\Task2\obj\Debug\net8.0\ref\Task2.dll
